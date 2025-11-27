@@ -24,7 +24,7 @@
 - List all employees of a company
   
 # Full Report
-[Professional Social Media Database]-(Professional-Social-Media-Database.pdf)
+[Professional Social Media Database](Professional-Social-Media-Database.pdf)
 
 ## What I Learned
 - How to model a professional social network using graph databases
