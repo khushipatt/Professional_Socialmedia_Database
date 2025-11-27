@@ -7,7 +7,7 @@
   - Users
   - Companies
   - Skills
-  - Jobs]
+  - Jobs
 
 - **Relationships**:
   - Users *have skills* 
@@ -26,7 +26,7 @@
 # Full Report
 [Professional Social Media Database](Professional-Social-Media-Database.pdf)
 
-## What I Learned
+# What I Learned
 - How to model a professional social network using graph databases
 - Creating and connecting nodes and relationships in Neo4j
   
